@@ -1,4 +1,4 @@
-## ![Discord Banner 1](https://discord.com/api/guilds/798716119665737768/widget.png?style=shield)
+## [![Discord Banner 1](https://discord.com/api/guilds/798716119665737768/widget.png?style=shield)](https://discord.gg/fqkxJjY4yM)
 <p align="center">
  <img width="100px" src="https://avatars.githubusercontent.com/u/77133161" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Overkill10117</h2>
