@@ -28,14 +28,7 @@ Unstable | `.spam` | giveaway command `.start`
 `Inactive` | `.pspam` | 
 
 
-##
-[![Discord Banner 1](https://discord.com/api/guilds/798716119665737768/widget.png?style=banner1)](https://discord.gg/fqkxJjY4yM)
-##
-[![Discord Banner 1](https://discord.com/api/guilds/798716119665737768/widget.png?style=banner2)](https://discord.gg/fqkxJjY4yM)
-##
-[![Discord Banner 1](https://discord.com/api/guilds/798716119665737768/widget.png?style=banner3)](https://discord.gg/fqkxJjY4yM)
-##
-[![Discord Banner 1](https://discord.com/api/guilds/798716119665737768/widget.png?style=banner4)](https://discord.gg/fqkxJjY4yM)
+
 
 - [ ] This is a complete item
 - [x] This is an incomplete item
